@@ -1,0 +1,14 @@
+Brazil|South America|193364000|8511965.00|22.72
+Canada|North America|34207000|9976140.00|3.43
+China|Asia|1339190000|9596960.00|139.54
+Colombia|South America|48654392|1090909.09|44.60
+France|Europe|64668129|541656.76|119.39
+Indonesia|Asia|260581100|1809590.97|144.00
+Italy|Europe|888.0|300000.00|0.00
+Japan|Asia|127380000|200.00|636900.00
+Mexico|North America|128632004|1969230.76|65.32
+Nigeria|Africa|186987563|912134.45|205.00
+South Africa|Africa|54978907|1222222.22|44.98
+South Korea|Asia|50503933|98076.92|514.94
+United States of America|North America|309975000|9629091.00|32.19
+Vulcan|United Federation Of Planets|300.0|900.00|0.33
